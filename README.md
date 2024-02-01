@@ -6,15 +6,12 @@ of time by dragging their cursor through the path. As time goes by, the maze's w
 the maze.
 
 To run:
-
 Run “Base.py”
 
 Libraries/modules to be installed:
-
 PIL/Pillow and Requests
 
 In-game shortcuts:
-
 Press “s” to show maze solution
 Press “r” to reset entire game
 Press “p” in game to reset maze and timer
