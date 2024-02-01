@@ -14,9 +14,9 @@ Run “Base.py”
 PIL/Pillow and Requests
 
 **In-game shortcuts:** <br />
-Press “s” to show maze solution
-Press “r” to reset entire game
-Press “p” in game to reset maze and timer
-Press “z” to lose
-Press “w” to win
-Press “c” to make timer 1 sec
+Press “s” to show maze solution<br />
+Press “r” to reset entire game<br />
+Press “p” in game to reset maze and timer<br />
+Press “z” to lose<br />
+Press “w” to win<br />
+Press “c” to make timer 1 sec<br />
