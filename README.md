@@ -1,7 +1,6 @@
 # cursors.112
 A maze spinoff of the formerly popular online multiplayer game, cursors.io!
 
-Description:
 This is a maze based game, where the player makes their way through the maze in a certain amount
 of time by dragging their cursor through the path. As time goes by, the width of the margins/walls
 increases, and if the player’s cursor collides with the wall, the cursor resets back to the beginning of
