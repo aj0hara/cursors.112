@@ -1,7 +1,7 @@
 # cursors.112
 A maze spinoff of the formerly popular online multiplayer game, cursors.io! 
 
-I created this as my term project for 15-112, an introductory programming course at Carnegie Mellon University.
+I created this as my term project for 15-112, an introductory Python programming course at Carnegie Mellon University.
 
 **Description:** <br />
 This is a maze based game, where the player tries to make their way through the maze in a certain amount of time by dragging their cursor through the path. As time goes by, the maze's walls start to close in, and if the player’s cursor collides with the wall, the cursor resets back to the beginning of the maze.
